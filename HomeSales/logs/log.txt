@@ -1,0 +1,4 @@
+DEBUG 2018-03-24 15:50:38,338   177ms SalesController        trictsWithTopSales - GetSchoolDistrictsWithTopSales() entered
+DEBUG 2018-03-24 15:50:38,431   270ms SalesController        trictsWithTopSales - GetSchoolDistrictsWithTopSales() finished
+DEBUG 2018-03-24 15:53:08,694  7739ms SalesController        trictsWithTopSales - GetSchoolDistrictsWithTopSales() entered
+DEBUG 2018-03-24 15:53:08,713  7758ms SalesController        trictsWithTopSales - GetSchoolDistrictsWithTopSales() finished
